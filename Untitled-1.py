@@ -24,9 +24,9 @@ def main():
 
 if __name__ == "__main__":
     main()
-#Maryuri Salazar,Juan Castrillon y Joan Infante
-    
-#https://github.com/joan7890/github.git
+#Maryuri Salazar,Juan Castrillon y Joan Infante   
+
+
 
 
 
